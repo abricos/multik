@@ -1,0 +1,23 @@
+{
+    "name": "mk",
+    "description": "CLI tool for scaffolding out Multik projects",
+    "author": "Alexander Kuzmin <roosit@abricos.org>",
+    "version": "0.0.1",
+    "license": "MIT",
+    "main": "./lib/index.js",
+    "bin": {
+        "mk": "./bin/mk"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/multik/mk.git"
+    },
+    "keywords": [
+        "multi",
+        "build",
+        "web",
+        "tool",
+        "cli",
+        "scaffold"
+    ]
+}
